@@ -1,0 +1,11 @@
+{
+    "name": "<enter-email-address>",
+    "namespace": "system",
+    "type": "USER",
+    "first_name": "Test",
+    "last_name": "01",
+    "email": "<enter-email-address>",
+    "idm_type": "SSO",
+    "namespace_roles": [],
+    "group_names": []
+  }
